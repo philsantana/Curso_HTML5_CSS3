@@ -1,7 +1,8 @@
 # Curso_HTML5_CSS3
 Curso de HTML5 e CSS3 com Gustavo Guanabara
+# Modulo 1
 ## Referências
-### Referências Online e Documentação 
+### Referências Online e Documentação
 * MDN (Mozilla Developer Network)
 * W3C Standarts (World Wide Web Consortion)
 * WHATWG Living Standart (Web Hypertext Application Technology Working Group)
@@ -25,3 +26,4 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * Pensar Com Tipos, Ellen Lupton (GG)
 * Flexbox Explained, Jorge Montoya e Stephen Burge (OSTRaining)
 * CSS Grid Explained, Jorge Montoya e Stephen Burge (OSTRaining)
+## Aula 1 (Capítulo 2) - Como a Internet Funciona?
