@@ -28,9 +28,9 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * CSS Grid Explained, Jorge Montoya e Stephen Burge (OSTRaining)
 ## Aula 1 (Capítulo 2) - Como a Internet Funciona?
 ### Representação de Dados
-Os aparelhos eletrônicos funcionam a base de **bits** (0 ou 1) e um tipo de onda chamada **Onda Quadrada** ou **Binarias**
-O conjunto de **8 bits** denomina-se **Byte**, que é a porção minima de representção de um dado
-A tabela **Codigo Multibyte UTF-8** é a tabela onde contém os dados em bytes para serem convertidos para Alfanuméricos, Símbolos e Acentuações
+* Os aparelhos eletrônicos funcionam a base de **bits** (0 ou 1) e um tipo de onda chamada **Onda Quadrada** ou **Binaria**
+* O conjunto de **8 bits** denomina-se **Byte**, que é a porção minima de representação de um dado
+* A tabela **Codigo Multibyte UTF-8** é a tabela onde contém os dados em bytes para serem convertidos para Alfanuméricos, Símbolos e Acentuações
 ### Multiplos de Byte
 * 8 bits = 1 byte
 * 1024 bytes = 1 KB
