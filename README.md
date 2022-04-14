@@ -56,3 +56,16 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * Toda maquina, seja cliente ou servidor, que está conectada na internet tem um numero de identificação chamado IP
 * DNS (Domain Name System): Servidor onde é requisitado um **Dominio**(Nome) e é devolvido o **IP**(Numero)
 * Pacotes: Pedaços ddo arquivo que são enviados por diferentes rotas em diferentes tempos
+## Aula 2 (Capítulo 2) - O que é Domínio e Hospedagem?
+* Dominio: **Nome Unico** que refere ao endereço do servidor
+* TLD (Top Level Domains):
+    * GTLD (Generic Top Level Domains): Dominios de Alto Nivel Genéricos (.com para instituições comerciais, .gov para governamentais, etc)
+    * CCTLD (Country Code Top Level Domains): Dominios de Alto Nivel para Codigos de País (.br para brasil, .us, .pt, .uk, etc) 
+* Hospedagem: Espaço para armazenar arquivos
+* URL (Uniforme Resource Locator): 
+    * *https://www.github.com/gustavoguanabara*
+    * github.com = Dominio
+        * .com = TLD
+    * www = sub-domínio
+    * https:// = Protocolo
+    * /gustavoguanabara = caminho
