@@ -109,3 +109,14 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
     * Ruby
     * Java
 * Full Stack: Desenvolvedor tanto Front-end tanto Back-end
+## Aula 2 (Capítulo 4) - Seu Primeiro Código HTML
+* `<!DOCTYPE html>`: Indica que o documento é HTML5
+* `<html lang="pt-br"></html>`: Abre e  fecha documento HTML e indica a língua
+* `<head></head>`: Área de configuração do site
+* `<body></body>`: Área do conteúdo do site
+* `<meta charset="UTF-8">`: Indica os caracteres do padrão UTF-8
+* `<meta name="viewport" content="width=device-width, initial-scale=1.0">`: Indica que o site utilizara 100% do espaço da pagina
+* `<title></title>`: Título do site
+* `<h1></h1>`: Título de nivel 1
+* ´<p></p>`: parágrafo
+* `<hr>`: Linha horizontal
