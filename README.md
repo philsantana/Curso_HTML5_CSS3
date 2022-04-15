@@ -69,3 +69,28 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
     * www = sub-domínio
     * https:// = Protocolo
     * /gustavoguanabara = caminho
+## Aula 1 (Capítulo 3) - A Diferença entre **HTML**, **CSS** e **JavaScript**
+* HTML (HyperText Markup Language) = Linguagem focada em **Conteúdo** (Textos, Imagens, Videos, Tabelas, etc)
+* CSS (Cascading Style Sheets) = Liguagem focada em **Design** (Cor, Sombras, Posicionamento, Tamanho, etc)
+* JavaScript (JS) = Liguangem de **Programação** focada em **Interação** (Menus, Animações, Popups, Valdações, etc)
+### Conteúdo em HTML
+* Desenvolvido a partir de **tags**
+* Simbolizadas com *<>* para abertura e *</>* para fechamento
+* Algumas tags não possuem fechamento
+### Estilo em CSS
+* Desenvolvido a partir de **seletores**
+* Simbolizadas com **seletor**_tag ou id ou nome_, seguido por *{}* onde dentro estão **Declarações**, compostas por **propriedades** com **valores** terminadas **SEMPRE** em *;*
+### Estrutura Básica de um Documento HTML
+```
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <h1>Olá Mundo!</h1>
+    </body>
+</html>
+```
