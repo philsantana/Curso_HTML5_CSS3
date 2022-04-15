@@ -94,3 +94,18 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
     </body>
 </html>
 ~~~
+## Aula 2 (Capítulo 3) - Front-end, Back-end e Full Stack
+* Front-end (Client-side): Desenvolve tecnologias do lado do cliente
+* Back-end (Server-side): Desenvolve tecnologias do lado do servidor
+* Tecnologias Front-end
+    * HTML
+    * CSS
+    * JavaScript
+* Tecnologias Back-end
+    * PHP
+    * NodeJS
+    * C#
+    * Python
+    * Ruby
+    * Java
+* Full Stack: Desenvolvedor tanto Front-end tanto Back-end
