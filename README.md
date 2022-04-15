@@ -81,7 +81,7 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * Desenvolvido a partir de **seletores**
 * Simbolizadas com **seletor**_tag ou id ou nome_, seguido por *{}* onde dentro estão **Declarações**, compostas por **propriedades** com **valores** terminadas **SEMPRE** em *;*
 ### Estrutura Básica de um Documento HTML
-```
+~~~html
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
@@ -93,4 +93,4 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
         <h1>Olá Mundo!</h1>
     </body>
 </html>
-```
+~~~
