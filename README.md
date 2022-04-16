@@ -50,12 +50,12 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * Internet: Rede mundial de redes distribuidas (Rede de redes)
 * O intermédio do cliente e a internet é uma linha telefonica ou rede televisiva que funcionam com tipo de onda chamada **Onda Senoidal**
 * Para o cliente se conectar a internet é necessário um Modem (Aparelho **Mo**dulador e **Dem**odulador)
-* Modulação: Conversão de ondas Quadradas em Sonoidais
+* Modulação: Conversão de ondas Quadradas em Senoidais
 * Demodulação: Converção de ondas Senoidais em Quadradas
 * Servidor: Maquina onde estão instalados os serviços
 * Toda maquina, seja cliente ou servidor, que está conectada na internet tem um numero de identificação chamado IP
-* DNS (Domain Name System): Servidor onde é requisitado um **Dominio**(Nome) e é devolvido o **IP**(Numero)
-* Pacotes: Pedaços ddo arquivo que são enviados por diferentes rotas em diferentes tempos
+* DNS (Domain Name System): Servidor onde é requisitado um **Dominio**(Nome) e é devolvido o **IP**(Número)
+* Pacotes: Pedaços do arquivo que são enviados por diferentes rotas em diferentes tempos
 ## Aula 2 (Capítulo 2) - O que é Domínio e Hospedagem?
 * Dominio: **Nome Unico** que refere ao endereço do servidor
 * TLD (Top Level Domains):
@@ -79,7 +79,7 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * Algumas tags não possuem fechamento
 ### Estilo em CSS
 * Desenvolvido a partir de **seletores**
-* Simbolizadas com **seletor**_tag ou id ou nome_, seguido por *{}* onde dentro estão **Declarações**, compostas por **propriedades** com **valores** terminadas **SEMPRE** em *;*
+* Simbolizadas com **seletor** (_tag, id ou nome_), seguido por *{}* onde dentro estão **Declarações**, compostas por **propriedades** com **valores** terminadas **SEMPRE** em *;*
 ### Estrutura Básica de um Documento HTML
 ~~~html
 <!DOCTYPE html>
@@ -118,5 +118,5 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * `<meta name="viewport" content="width=device-width, initial-scale=1.0">`: Indica que o site utilizara 100% do espaço da pagina
 * `<title></title>`: Título do site
 * `<h1></h1>`: Título de nivel 1
-* ´<p></p>`: parágrafo
+* `<p></p>`: Parágrafo
 * `<hr>`: Linha horizontal
