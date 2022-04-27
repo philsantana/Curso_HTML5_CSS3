@@ -1,13 +1,20 @@
 # Curso_HTML5_CSS3
+
 Curso de HTML5 e CSS3 com Gustavo Guanabara
+
 # Modulo 1
+
 ## Referências
+
 ### Referências Online e Documentação
+
 * MDN (Mozilla Developer Network)
 * W3C Standarts (World Wide Web Consortion)
 * WHATWG Living Standart (Web Hypertext Application Technology Working Group)
 * W3Schools (Refsnes Data)
+
 ### Livros
+
 * HTMLL: Up and Running, Mark Pilgrim (O'Reilly)
 * CSS: The Definitive Guide, Eric Meyer (O'Reilly)
 * Flexbox in CSS, Estelle Weyl (O'Reilly)
@@ -26,12 +33,17 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * Pensar Com Tipos, Ellen Lupton (GG)
 * Flexbox Explained, Jorge Montoya e Stephen Burge (OSTRaining)
 * CSS Grid Explained, Jorge Montoya e Stephen Burge (OSTRaining)
+
 ## Aula 1 (Capítulo 2) - Como a Internet Funciona?
+
 ### Representação de Dados
+
 * Os aparelhos eletrônicos funcionam a base de **bits** (0 ou 1) e um tipo de onda chamada **Onda Quadrada** ou **Binaria**
 * O conjunto de **8 bits** denomina-se **Byte**, que é a porção minima de representação de um dado
 * A tabela **Codigo Multibyte UTF-8** é a tabela onde contém os dados em bytes para serem convertidos para Alfanuméricos, Símbolos e Acentuações
+
 ### Multiplos de Byte
+
 * 8 bits = 1 byte
 * 1024 bytes = 1 KB
 * 1024 KB = 1 MB
@@ -41,11 +53,15 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * 1024 PB = 1 EB
 * 1024 EB = 1 ZB
 * 1024 ZB = 1 YB
+
 ### Notação
+
 * Byte (B) != Bit (b)
 * **Byte** normalmente usado para representar **Armazenamento**
 * **Bit** normalmente usado para representar **Transmissão**
+
 ### Como nos conectamos?
+
 * Cliente: Maquina do Usuário
 * Internet: Rede mundial de redes distribuidas (Rede de redes)
 * O intermédio do cliente e a internet é uma linha telefonica ou rede televisiva que funcionam com tipo de onda chamada **Onda Senoidal**
@@ -56,31 +72,41 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * Toda maquina, seja cliente ou servidor, que está conectada na internet tem um numero de identificação chamado IP
 * DNS (Domain Name System): Servidor onde é requisitado um **Dominio**(Nome) e é devolvido o **IP**(Número)
 * Pacotes: Pedaços do arquivo que são enviados por diferentes rotas em diferentes tempos
+
 ## Aula 2 (Capítulo 2) - O que é Domínio e Hospedagem?
+
 * Dominio: **Nome Unico** que refere ao endereço do servidor
 * TLD (Top Level Domains):
-    * GTLD (Generic Top Level Domains): Dominios de Alto Nivel Genéricos (.com para instituições comerciais, .gov para governamentais, etc)
-    * CCTLD (Country Code Top Level Domains): Dominios de Alto Nivel para Codigos de País (.br para brasil, .us, .pt, .uk, etc) 
+  * GTLD (Generic Top Level Domains): Dominios de Alto Nivel Genéricos (.com para instituições comerciais, .gov para governamentais, etc)
+  * CCTLD (Country Code Top Level Domains): Dominios de Alto Nivel para Codigos de País (.br para brasil, .us, .pt, .uk, etc)
 * Hospedagem: Espaço para armazenar arquivos
 * URL (Uniforme Resource Locator): 
-    * *https://www.github.com/gustavoguanabara*
-    * github.com = Dominio
-        * .com = TLD
-    * www = sub-domínio
-    * https:// = Protocolo
-    * /gustavoguanabara = caminho
+  * *https://www.github.com/gustavoguanabara*
+  * github.com = Dominio
+    * .com = TLD
+  * www = sub-domínio
+  * https:// = Protocolo
+  * /gustavoguanabara = caminho
+
 ## Aula 1 (Capítulo 3) - A Diferença entre **HTML**, **CSS** e **JavaScript**
+
 * HTML (HyperText Markup Language) = Linguagem focada em **Conteúdo** (Textos, Imagens, Videos, Tabelas, etc)
 * CSS (Cascading Style Sheets) = Liguagem focada em **Design** (Cor, Sombras, Posicionamento, Tamanho, etc)
 * JavaScript (JS) = Liguangem de **Programação** focada em **Interação** (Menus, Animações, Popups, Valdações, etc)
+
 ### Conteúdo em HTML
+
 * Desenvolvido a partir de **tags**
 * Simbolizadas com *<>* para abertura e *</>* para fechamento
 * Algumas tags não possuem fechamento
+
 ### Estilo em CSS
+
 * Desenvolvido a partir de **seletores**
 * Simbolizadas com **seletor** (_tag, id ou nome_), seguido por *{}* onde dentro estão **Declarações**, compostas por **propriedades** com **valores** terminadas **SEMPRE** em *;*
+
 ### Estrutura Básica de um Documento HTML
+
 ~~~html
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -94,22 +120,26 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
     </body>
 </html>
 ~~~
+
 ## Aula 2 (Capítulo 3) - Front-end, Back-end e Full Stack
+
 * Front-end (Client-side): Desenvolve tecnologias do lado do cliente
 * Back-end (Server-side): Desenvolve tecnologias do lado do servidor
 * Tecnologias Front-end
-    * HTML
-    * CSS
-    * JavaScript
+  * HTML
+  * CSS
+  * JavaScript
 * Tecnologias Back-end
-    * PHP
-    * NodeJS
-    * C#
-    * Python
-    * Ruby
-    * Java
+  * PHP
+  * NodeJS
+  * C#
+  * Python
+  * Ruby
+  * Java
 * Full Stack: Desenvolvedor tanto Front-end tanto Back-end
+
 ## Aula 2 (Capítulo 4) - Seu Primeiro Código HTML
+
 * `<!DOCTYPE html>`: Indica que o documento é HTML5
 * `<html lang="pt-br"></html>`: Abre e  fecha documento HTML e indica a língua
 * `<head></head>`: Área de configuração do site
