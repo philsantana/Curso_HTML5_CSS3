@@ -154,3 +154,8 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 ## Capítulo 5 (Aula 1) - Parágrafos e Quebras
 
 * `<br>`: Quebra de Linha (Break Row)
+
+## Capítulo 5 (Aula 2) - Símbolo e Emoji no seu site
+
+* `&lt;`: Símbolo de Menor (Less Than)
+* `&gt;`: Símbolo de Maior (Greater Than)
