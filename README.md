@@ -159,3 +159,17 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 
 * `&lt;`: Símbolo de Menor (Less Than)
 * `&gt;`: Símbolo de Maior (Greater Than)
+* `&reg;`: Símbolo de Marca Registrada
+* `&copy;`: Símbolo de Copy Mark
+* `&trade;`: Símbolo de Trade Mark
+* `&euro;`: Símbolo de Euro
+* `&pound;`: Símbolo de Libra
+* `&yen;`: Símbolo de Yen
+* `&cent;`: Símbolo de Cents
+* `&delta;`: Símbolo de Delta Minusculo
+* `&Delta;`: Símbolo de Delta Maiusculo
+* `&uarr;`: Símbolo de Seta para Cima
+* `&darr;`: Símbolo de Seta para Baixo
+* `&rarr;`: Símbolo de Seta para Direita
+* `&larr;`: Símbolo de Seta para Esquerda
+* `&#x...`: Codigo para colocar emoji sem **U+**
