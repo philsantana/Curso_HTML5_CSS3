@@ -34,7 +34,7 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * Flexbox Explained, Jorge Montoya e Stephen Burge (OSTRaining)
 * CSS Grid Explained, Jorge Montoya e Stephen Burge (OSTRaining)
 
-## Aula 1 (Capítulo 2) - Como a Internet Funciona?
+## Capítulo 2 (Aula 1) - Como a Internet Funciona?
 
 ### Representação de Dados
 
@@ -73,22 +73,22 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * DNS (Domain Name System): Servidor onde é requisitado um **Dominio**(Nome) e é devolvido o **IP**(Número)
 * Pacotes: Pedaços do arquivo que são enviados por diferentes rotas em diferentes tempos
 
-## Aula 2 (Capítulo 2) - O que é Domínio e Hospedagem?
+## Capítulo 2 (Aula 2) - O que é Domínio e Hospedagem?
 
 * Dominio: **Nome Unico** que refere ao endereço do servidor
 * TLD (Top Level Domains):
   * GTLD (Generic Top Level Domains): Dominios de Alto Nivel Genéricos (.com para instituições comerciais, .gov para governamentais, etc)
   * CCTLD (Country Code Top Level Domains): Dominios de Alto Nivel para Codigos de País (.br para brasil, .us, .pt, .uk, etc)
 * Hospedagem: Espaço para armazenar arquivos
-* URL (Uniforme Resource Locator): 
-  * *https://www.github.com/gustavoguanabara*
+* URL (Uniforme Resource Locator):
+  * *<https://www.github.com/gustavoguanabara>*
   * github.com = Dominio
     * .com = TLD
   * www = sub-domínio
   * https:// = Protocolo
   * /gustavoguanabara = caminho
 
-## Aula 1 (Capítulo 3) - A Diferença entre **HTML**, **CSS** e **JavaScript**
+## Capítulo 3 (Aula 1) - A Diferença entre **HTML**, **CSS** e **JavaScript**
 
 * HTML (HyperText Markup Language) = Linguagem focada em **Conteúdo** (Textos, Imagens, Videos, Tabelas, etc)
 * CSS (Cascading Style Sheets) = Liguagem focada em **Design** (Cor, Sombras, Posicionamento, Tamanho, etc)
@@ -103,7 +103,7 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 ### Estilo em CSS
 
 * Desenvolvido a partir de **seletores**
-* Simbolizadas com **seletor** (_tag, id ou nome_), seguido por *{}* onde dentro estão **Declarações**, compostas por **propriedades** com **valores** terminadas **SEMPRE** em *;*
+* Simbolizadas com **seletor** (*tag, id ou nome*), seguido por *{}* onde dentro estão **Declarações**, compostas por **propriedades** com **valores** terminadas **SEMPRE** em *;*
 
 ### Estrutura Básica de um Documento HTML
 
@@ -121,7 +121,7 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 </html>
 ~~~
 
-## Aula 2 (Capítulo 3) - Front-end, Back-end e Full Stack
+## Capítulo 3 (Aula 2) - Front-end, Back-end e Full Stack
 
 * Front-end (Client-side): Desenvolve tecnologias do lado do cliente
 * Back-end (Server-side): Desenvolve tecnologias do lado do servidor
@@ -138,7 +138,7 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
   * Java
 * Full Stack: Desenvolvedor tanto Front-end tanto Back-end
 
-## Aula 2 (Capítulo 4) - Seu Primeiro Código HTML
+## Capítulo 4 (Aula 2) - Seu Primeiro Código HTML
 
 * `<!DOCTYPE html>`: Indica que o documento é HTML5
 * `<html lang="pt-br"></html>`: Abre e  fecha documento HTML e indica a língua
@@ -149,4 +149,4 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * `<title></title>`: Título do site
 * `<h1></h1>`: Título de nivel 1
 * `<p></p>`: Parágrafo
-* `<hr>`: Linha horizontal
+* `<hr>`: Linha horizontal (Horizontal Row)
