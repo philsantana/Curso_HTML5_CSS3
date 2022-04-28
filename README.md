@@ -150,3 +150,7 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * `<h1></h1>`: Título de nivel 1
 * `<p></p>`: Parágrafo
 * `<hr>`: Linha horizontal (Horizontal Row)
+
+## Capítulo 5 (Aula 1) - Parágrafos e Quebras
+
+* `<br>`: Quebra de Linha (Break Row)
