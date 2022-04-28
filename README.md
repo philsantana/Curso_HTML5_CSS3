@@ -173,3 +173,7 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * `&rarr;`: Símbolo de Seta para Direita
 * `&larr;`: Símbolo de Seta para Esquerda
 * `&#x...`: Codigo para colocar emoji sem **U+**
+
+## Capítulo 6 (Aula 4) - A tag img em HTML5
+
+* `<img src="" alt="">`: Adiciona Imagens ao site (src: caminho da imagem, alt: texto alternativo/explicativo da imagem)
