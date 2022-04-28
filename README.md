@@ -176,4 +176,11 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 
 ## Capítulo 6 (Aula 4) - A tag img em HTML5
 
-* `<img src="" alt="">`: Adiciona Imagens ao site (src: caminho da imagem, alt: texto alternativo/explicativo da imagem)
+* `<img src="" alt="">`: Adiciona Imagens ao site 
+  * src: caminho da imagem
+  *alt: texto alternativo/explicativo da imagem
+
+## Capítulo 6 (Aula 5) - Como mudar o favicon de um site
+
+* `<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">`: Muda o Favicon (Icone do site)
+  * href: caminho do icone
