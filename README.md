@@ -194,3 +194,10 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * `<h5>`: Título de Nivel 5
 * `<h6>`: Título de Nivel 6
 * `loren`: Cria um Lorem Ipsum
+
+## Capítulo 8 Aula 2 – Negrito e Itálico do jeito certo
+
+* `<b>`: Negrito (Não Semântico)
+* `<strong>`: Destaque (Semântico)
+* `<i>`: Itálico (Não Semântico)
+* `<em>`: Ênfase (Semântico)
