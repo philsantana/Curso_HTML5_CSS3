@@ -201,3 +201,14 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * `<strong>`: Destaque (Semântico)
 * `<i>`: Itálico (Não Semântico)
 * `<em>`: Ênfase (Semântico)
+
+## Capítulo 8 Aula 3 - Formatações adicionais em HTML
+
+* `<mark>`: Texto Marcado
+* `<big>`: Texto Grande (Desuso)
+* `<small>`: Texto Pequeno
+* `<del>`: Texto deletado (Riscado)
+* `<ins>`: Texto Inserido (Sublinhado com Semântica)
+* `<u>`: Sublinhado (Não Semântico)
+* `<sup>`: Sobreescrito
+* `<sub>`: Subescrito
