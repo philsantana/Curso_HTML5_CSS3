@@ -184,3 +184,13 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 
 * `<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">`: Muda o Favicon (Icone do site)
   * href: caminho do icone
+
+## Capítulo 7 (Aula 1) - Hierarquia de Títulos
+
+* `<h1>`: Título de Nivel 1
+* `<h2>`: Título de Nivel 2
+* `<h3>`: Título de Nivel 3
+* `<h4>`: Título de Nivel 4
+* `<h5>`: Título de Nivel 5
+* `<h6>`: Título de Nivel 6
+* `loren`: Cria um Lorem Ipsum
