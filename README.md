@@ -212,3 +212,17 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * `<u>`: Sublinhado (Não Semântico)
 * `<sup>`: Sobreescrito
 * `<sub>`: Subescrito
+
+## Capítulo 8 Aula 4 – Citações e Códigos
+
+* `<code>`: Formatação de codigos
+* `<pre>`: Formata tudo oq está dentro desta tag, tanto espaços quando tabulações e quebras de linha (Pré-formatação)
+* `<q>`: Citação simples em uma linha
+* `<blockquote>`: Citação completa em bloco
+  * cite: link de onde foi retirado a citação, se houver
+* `<abbr title="">`: Coloca o significado de uma abreviação
+  * title: É o significado
+* `<bdo dir="rtl">`: Inverte o texto entre a tag (Não serve pra nada?)
+  * dir: direção do texto
+    * rtl: **r**ight **t**o **l**eft
+    * ltr: **l**eft **t**o **r**ight
