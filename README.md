@@ -235,3 +235,10 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * `<ul>`: Listas Não Ordenadas
   * `type=""`: Paramentro para indicar o tipo de lista (disc, circle, square)
 * `<li>`: Lista os itens da lista
+
+## Capítulo 9 Aula 2 – Listas mistas e de definição
+
+* Posso criar Listas (OL e UL) dentro de outras listas
+* `<dl>`: Listas de Definição
+  * `<dt>`: Termo
+  * `<dd>`: Definição
