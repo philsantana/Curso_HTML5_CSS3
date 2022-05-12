@@ -195,14 +195,14 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * `<h6>`: Título de Nivel 6
 * `loren`: Cria um Lorem Ipsum
 
-## Capítulo 8 Aula 2 – Negrito e Itálico do jeito certo
+## Capítulo 8 (Aula 2) – Negrito e Itálico do jeito certo
 
 * `<b>`: Negrito (Não Semântico)
 * `<strong>`: Destaque (Semântico)
 * `<i>`: Itálico (Não Semântico)
 * `<em>`: Ênfase (Semântico)
 
-## Capítulo 8 Aula 3 - Formatações adicionais em HTML
+## Capítulo 8 (Aula 3) - Formatações adicionais em HTML
 
 * `<mark>`: Texto Marcado
 * `<big>`: Texto Grande (Desuso)
@@ -213,7 +213,7 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * `<sup>`: Sobreescrito
 * `<sub>`: Subescrito
 
-## Capítulo 8 Aula 4 – Citações e Códigos
+## Capítulo 8 (Aula 4) – Citações e Códigos
 
 * `<code>`: Formatação de codigos
 * `<pre>`: Formata tudo oq está dentro desta tag, tanto espaços quando tabulações e quebras de linha (Pré-formatação)
@@ -226,3 +226,12 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
   * dir: direção do texto
     * rtl: **r**ight **t**o **l**eft
     * ltr: **l**eft **t**o **r**ight
+
+## Capítulo 9 (Aula 1) – Listas OL e UL
+
+* `<ol>`: Listas Ordenadas
+  * `type=""`: Paramentro para indicar o tipo de lista (1, A, a, I, i)
+    * `start=""`: Indica em que item começar a lista
+* `<ul>`: Listas Não Ordenadas
+  * `type=""`: Paramentro para indicar o tipo de lista (disc, circle, square)
+* `<li>`: Lista os itens da lista
