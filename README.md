@@ -248,3 +248,9 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * `<a href="">`: Cria um link (Ancora) onde href é a URL ou o caminho.
   * `target:"_blank"`: Abre o link em uma nova aba.
   * `rel:"external"`: Diz para o navegador que se trata de um link externo.
+
+## Capítulo 10 (Aula 2) – Links Internos
+
+* `target:"_self"`: Abre o link na mesma aba.
+* `rel:"next"`: Indica para o navegador que está é a próxima página.
+* `rel:"prev"`: Indica para o navegador que está é a página imediatamente anterior.
