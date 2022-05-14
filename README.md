@@ -254,3 +254,8 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * `target:"_self"`: Abre o link na mesma aba.
 * `rel:"next"`: Indica para o navegador que está é a próxima página.
 * `rel:"prev"`: Indica para o navegador que está é a página imediatamente anterior.
+
+## Capítulo 10 (Aula 3) – Links para download
+
+* `download=""`: indica que é um link de download e qual o arquivo a ser baixado.
+* `type=""`: indica qual tipo de arquivo de acordo com a lista da [IANA.org](https://www.iana.org/assignments/media-types/media-types.xhtml).
