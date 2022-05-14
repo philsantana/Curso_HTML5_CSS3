@@ -236,9 +236,15 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
   * `type=""`: Paramentro para indicar o tipo de lista (disc, circle, square)
 * `<li>`: Lista os itens da lista
 
-## Capítulo 9 Aula 2 – Listas mistas e de definição
+## Capítulo 9 (Aula 2) – Listas mistas e de definição
 
 * Posso criar Listas (OL e UL) dentro de outras listas
 * `<dl>`: Listas de Definição
   * `<dt>`: Termo
   * `<dd>`: Definição
+
+## Capítulo 10 (Aula 1) – Links e Âncoras em HTML5
+
+* `<a href="">`: Cria um link (Ancora) onde href é a URL ou o caminho.
+  * `target:"_blank"`: Abre o link em uma nova aba.
+  * `rel:"external"`: Diz para o navegador que se trata de um link externo.
