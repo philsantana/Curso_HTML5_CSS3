@@ -262,6 +262,15 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 
 ## Capítulo 11 Aula 2 – Imagens que se adaptam sozinhas
 
-* `<picture>`: Cria imagens dinâmicas
-* `<source media="max-width: " srcset="" type="image/">`: media(Indica o Tamanho Minimo ou Maximo (min or max) da Altura ou Largura (height or width) da tela) srcset(caminho da imagem que irá substituir) type(tipo de imagem (png, jpg, etc))
-* `<img src="" alt="">`: Coloca imagens no site. src(caminho da imagem) alt(texto alternativo sobre a imagem)
+* `<picture>`: Cria imagens dinâmicas.
+* `<source media="max-width: " srcset="" type="image/">`: media(Indica o Tamanho Minimo ou Maximo (min or max) da Altura ou Largura (height or width) da tela) srcset(caminho da imagem que irá substituir) type(tipo de imagem (png, jpg, etc)).
+* `<img src="" alt="">`: Coloca imagens no site. src(caminho da imagem) alt(texto alternativo sobre a imagem).
+
+## Capítulo 11 Aula 3 – Colocando áudio no seu site
+
+* `<audio>`: Coloca audio no site.
+  * `preload=""`: Diz ao navegador se baixa todo o arquivo ao entrar no site (auto), se baixa so os metadados (metadate), ou se baixa somente ao reproduzir o arquivo (none).
+  * `autoplay`: Reproduz ao carregar o site.
+  * `controls`: Exibe os controles de mídia no site.
+  * `loop`: Mantém a mídia em loop.
+* `<source src="" type="">`: src (caminho do arquivo) type(tipo do arquivo).
