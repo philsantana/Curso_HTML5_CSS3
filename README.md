@@ -259,3 +259,9 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 
 * `download=""`: indica que é um link de download e qual o arquivo a ser baixado.
 * `type=""`: indica qual tipo de arquivo de acordo com a lista da [IANA.org](https://www.iana.org/assignments/media-types/media-types.xhtml).
+
+## Capítulo 11 Aula 2 – Imagens que se adaptam sozinhas
+
+* `<picture>`: Cria imagens dinâmicas
+* `<source media="max-width: " srcset="" type="image/">`: media(Indica o Tamanho Minimo ou Maximo (min or max) da Altura ou Largura (height or width) da tela) srcset(caminho da imagem que irá substituir) type(tipo de imagem (png, jpg, etc))
+* `<img src="" alt="">`: Coloca imagens no site. src(caminho da imagem) alt(texto alternativo sobre a imagem)
