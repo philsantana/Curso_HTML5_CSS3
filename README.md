@@ -274,3 +274,9 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
   * `controls`: Exibe os controles de mídia no site.
   * `loop`: Mantém a mídia em loop.
 * `<source src="" type="">`: src (caminho do arquivo) type(tipo do arquivo).
+
+## Capítulo 11 Aula 5 – Vídeos em hospedagem própria
+
+* `<video>`: Coloca videos hospedados localmente no seu site.
+  * `poster=""`: Coloca uma thumbnail no video.
+* `<source src="" type="">`: src (caminho do arquivo) type(tipo do arquivo).
