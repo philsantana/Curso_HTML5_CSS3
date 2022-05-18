@@ -260,13 +260,13 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * `download=""`: indica que é um link de download e qual o arquivo a ser baixado.
 * `type=""`: indica qual tipo de arquivo de acordo com a lista da [IANA.org](https://www.iana.org/assignments/media-types/media-types.xhtml).
 
-## Capítulo 11 Aula 2 – Imagens que se adaptam sozinhas
+## Capítulo 11 (Aula 2) – Imagens que se adaptam sozinhas
 
 * `<picture>`: Cria imagens dinâmicas.
 * `<source media="max-width: " srcset="" type="image/">`: media(Indica o Tamanho Minimo ou Maximo (min or max) da Altura ou Largura (height or width) da tela) srcset(caminho da imagem que irá substituir) type(tipo de imagem (png, jpg, etc)).
 * `<img src="" alt="">`: Coloca imagens no site. src(caminho da imagem) alt(texto alternativo sobre a imagem).
 
-## Capítulo 11 Aula 3 – Colocando áudio no seu site
+## Capítulo 11 (Aula 3) – Colocando áudio no seu site
 
 * `<audio>`: Coloca audio no site.
   * `preload=""`: Diz ao navegador se baixa todo o arquivo ao entrar no site (auto), se baixa so os metadados (metadate), ou se baixa somente ao reproduzir o arquivo (none).
@@ -275,7 +275,7 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
   * `loop`: Mantém a mídia em loop.
 * `<source src="" type="">`: src (caminho do arquivo) type(tipo do arquivo).
 
-## Capítulo 11 Aula 5 – Vídeos em hospedagem própria
+## Capítulo 11 (Aula 5) – Vídeos em hospedagem própria
 
 * `<video>`: Coloca videos hospedados localmente no seu site.
   * `poster=""`: Coloca uma thumbnail no video.
