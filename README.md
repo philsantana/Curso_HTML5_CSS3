@@ -2,7 +2,7 @@
 
 Curso de HTML5 e CSS3 com Gustavo Guanabara
 
-# Modulo 1
+# Módulo 1
 
 ## Referências
 
@@ -280,3 +280,11 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * `<video>`: Coloca videos hospedados localmente no seu site.
   * `poster=""`: Coloca uma thumbnail no video.
 * `<source src="" type="">`: src (caminho do arquivo) type(tipo do arquivo).
+
+# Módulo 2
+
+## Capítulo 13 Aula 06 – Como criar degradê com CSS ?
+
+* `* {}`: Configurações globais das CSS.
+* `background-image: linear-gradient( a, b);`: Cria gradientes em CSS onde: a(angulação ou direção do gradiente) e b(as cores do seu gradiente separadas por virgula).
+* `background-attachment: fixed;`: Mantem o gradiente por toda a página.
