@@ -288,3 +288,8 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * `* {}`: Configurações globais das CSS.
 * `background-image: linear-gradient( a, b);`: Cria gradientes em CSS onde: a(angulação ou direção do gradiente) e b(as cores do seu gradiente separadas por virgula).
 * `background-attachment: fixed;`: Mantem o gradiente por toda a página.
+
+## Capítulo 15 Aula 01 – Usando o id com CSS
+
+* Em *HTML* é **id** = **#** em *CSS*
+* Em *HTML* é **class** = **.** em *CSS*
