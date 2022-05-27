@@ -291,5 +291,8 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 
 ## Capítulo 15 Aula 01 – Usando o id com CSS
 
-* Em *HTML* é **id** = **#** em *CSS*
-* Em *HTML* é **class** = **.** em *CSS*
+* Em *HTML* é **id** = **#** em *CSS*.
+* Em *HTML* é **class** = **.** em *CSS*.
+* **Id** serve pra 1 elemento por página.
+* **Class** serve para 2 ou mais elementos.
+* `<span>`: seleciona uma parte do texto.
