@@ -302,3 +302,7 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * Em *CSS* **:** serve para indicar uma pseudo-classe, usada para alterar o estado de um elemento.
 * **>** serve para indicar o child de um elemento
   * `div>p {}`: indica que as configurações de *CSS* serão aplicadas nas tags **p** que estão dentro das **div**.
+
+## Capítulo 15 Aula 04 – Pseudo-elementos em CSS
+
+* **::** em *CSS* serve para indicar um pseudo elemento.Capítulo 15 Aula 04 – Pseudo-elementos em CSS
