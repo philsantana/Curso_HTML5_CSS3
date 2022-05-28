@@ -296,3 +296,9 @@ Curso de HTML5 e CSS3 com Gustavo Guanabara
 * **Id** serve pra 1 elemento por página.
 * **Class** serve para 2 ou mais elementos.
 * `<span>`: seleciona uma parte do texto.
+
+## Capítulo 15 Aula 03 – Pseudo-classes em CSS
+
+* Em *CSS* **:** serve para indicar uma pseudo-classe, usada para alterar o estado de um elemento.
+* **>** serve para indicar o child de um elemento
+  * `div>p {}`: indica que as configurações de *CSS* serão aplicadas nas tags **p** que estão dentro das **div**.
